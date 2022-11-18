@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claytoniousfunk
 - 👀 I’m interested in physics, chess, and music
-- 🌱 I’m currently learning C, python, maching learning
+- 🌱 I’m currently learning C, python, machine learning
 - 💞️ I’m looking to collaborate on CMS physics projects
 - 📫 How to reach me: cbennett0715@gmail.com
 
